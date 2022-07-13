@@ -1,6 +1,6 @@
 # CopyMaster
 
-<img src="img/cm.png" width="256" height="356">
+<img src="img/cm.png" width="256" height="256">
 
 English version below
 
